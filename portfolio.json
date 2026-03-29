@@ -1,0 +1,181 @@
+{
+  "name": "Portfolio",
+  "columns": [
+    "Header",
+    "Subheader",
+    "Body",
+    "Eyebrow",
+    "Image",
+    "CTA",
+    "Property",
+    "Logo",
+    "Keywords"
+  ],
+  "rows": [
+    {
+      "Header": "Sand, Stone, and Stillness",
+      "Subheader": "A beachfront pool where the Caribbean is always within reach",
+      "Body": "Step from your private pool directly onto the white sands of the Riviera Maya. Casa Arena blurs the boundary between resort and shoreline, offering an intimate escape shaped by the rhythm of the tides.",
+      "Eyebrow": "Beachfront Living",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/CZMDE/czmde-beachfront-pool-0625-hor-clsc.jpg",
+      "CTA": "View Beachfront Villas",
+      "Property": "Papaya Playa, Tulum",
+      "Logo": "[ds] Design Hotels",
+      "Keywords": "beach, pool, beachfront, caribbean, tulum, sand, mexico, villa"
+    },
+    {
+      "Header": "Your Private Coastline",
+      "Subheader": "Beach cabanas designed for all-day indulgence on the Cretan shore",
+      "Body": "Settle into a shaded cabana steps from the Mediterranean. With attentive service, ocean views, and the warmth of the Greek sun filtered through linen, every hour stretches beautifully into the next.",
+      "Eyebrow": "Resort Living",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/jw-chqmj-garden-party-10344:Classic-Hor",
+      "CTA": "Reserve a Cabana",
+      "Property": "JW Marriott Crete Resort & Spa",
+      "Logo": "[jw] JW Marriott",
+      "Keywords": "beach, cabana, resort, crete, greece, mediterranean, lounge, sun"
+    },
+    {
+      "Header": "Above the Canopy",
+      "Subheader": "A rooftop pool hidden among the treetops of Tulum's jungle",
+      "Body": "Rise above the jungle floor to find a private oasis suspended in the canopy. At Papaya Playa, the line between architecture and nature disappears \u2014 leaving only warm water, dappled light, and the sound of the wild.",
+      "Eyebrow": "Boutique Retreats",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/CZMDE/czmde-casitajungle-rooftoppool-0474-hor-clsc.jpg",
+      "CTA": "Experience Tulum",
+      "Property": "Papaya Playa, Tulum",
+      "Logo": "[ds] Design Hotels",
+      "Keywords": "jungle, rooftop, pool, tulum, boutique, canopy, nature, mexico"
+    },
+    {
+      "Header": "Framed by the Horizon",
+      "Subheader": "Open-air living designed around the Caribbean coastline",
+      "Body": "The thatched roofline of Casa Palapa frames an uninterrupted view of turquoise waters and endless sky. This is Tulum at its most elemental \u2014 raw materials, ocean breezes, and the kind of beauty that needs no embellishment.",
+      "Eyebrow": "Coastal Design",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/CZMDE/czmde-beachfront-view-0636-hor-clsc.jpg",
+      "CTA": "Explore the Collection",
+      "Property": "Papaya Playa, Tulum",
+      "Logo": "[ds] Design Hotels",
+      "Keywords": "beach, ocean, coastal, tulum, palapa, caribbean, view, mexico"
+    },
+    {
+      "Header": "Taste the Horizon",
+      "Subheader": "World-class dining set over the crystal waters of the Maldives",
+      "Body": "At The Ritz-Carlton Maldives, every meal is a destination. Overwater pavilions, ocean-to-table ingredients, and panoramic Indian Ocean views transform dining into an immersive journey for every sense.",
+      "Eyebrow": "Culinary Journeys",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/rz-mlera-tranquil-haven-for-culina-17858:Classic-Hor",
+      "CTA": "Explore Dining",
+      "Property": "The Ritz-Carlton Maldives, Fari Islands",
+      "Logo": "[rz] The Ritz-Carlton",
+      "Keywords": "dining, culinary, overwater, maldives, ocean, restaurant, luxury, food"
+    },
+    {
+      "Header": "Where Art Meets the Aegean",
+      "Subheader": "A living gallery set along the shores of Crete",
+      "Body": "Minos Beach Art Hotel dissolves the walls between gallery and landscape. Sculptural installations stand among olive groves and stone pathways that wind toward the sea. Here, every view is curated and every moment feels like a private exhibition.",
+      "Eyebrow": "Art & Culture",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/ds-hermb-exterior-23095-71648:Classic-Hor",
+      "CTA": "Explore the Hotel",
+      "Property": "Minos Beach Art Hotel",
+      "Logo": "[ds] Design Hotels",
+      "Keywords": "exterior, art, gallery, crete, greece, mediterranean, garden, coastal"
+    },
+    {
+      "Header": "Rooted in the Landscape",
+      "Subheader": "An all-suite retreat woven into the olive groves of Zakynthos",
+      "Body": "Olea All Suite Hotel emerges from its surroundings rather than imposing upon them. Stone, wood, and greenery converge in an architectural language that honors the island's natural beauty while offering refined, modern comfort.",
+      "Eyebrow": "Design Hotels",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/ds-zthoa-exterior-view-19784:Classic-Hor",
+      "CTA": "View the Property",
+      "Property": "Olea All Suite Hotel",
+      "Logo": "[ds] Design Hotels",
+      "Keywords": "exterior, olive, zakynthos, greece, garden, stone, nature, architecture"
+    },
+    {
+      "Header": "The Edge of Paradise",
+      "Subheader": "Where infinity pools dissolve into the Pacific horizon",
+      "Body": "Perched along Oahu's legendary North Shore, the pools at The Ritz-Carlton seamlessly blend into the ocean beyond. Surrounded by lush tropical landscape and endless blue, every angle offers a new reason to pause and take it all in.",
+      "Eyebrow": "Oceanfront Luxury",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/rz-hnlkz-aerial-pool-34392:Classic-Hor",
+      "CTA": "Discover Oahu",
+      "Property": "The Ritz-Carlton O'ahu, Turtle Bay",
+      "Logo": "[rz] The Ritz-Carlton",
+      "Keywords": "pool, ocean, aerial, hawaii, tropical, resort, infinity, coastline"
+    },
+    {
+      "Header": "Chase the Golden Hour",
+      "Subheader": "Set sail across the Indian Ocean as the Maldivian sun descends",
+      "Body": "As the sky turns amber and the ocean stills, a sunset cruise from The Ritz-Carlton Maldives becomes the memory that defines your journey. Champagne in hand, horizon ahead \u2014 this is what extraordinary feels like.",
+      "Eyebrow": "Signature Experiences",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/rz-mlera-sunset-cruise-21726:Classic-Hor",
+      "CTA": "Book an Experience",
+      "Property": "The Ritz-Carlton Maldives, Fari Islands",
+      "Logo": "[rz] The Ritz-Carlton",
+      "Keywords": "sunset, cruise, boat, maldives, ocean, golden hour, experience, water"
+    },
+    {
+      "Header": "Stillness on the Shore",
+      "Subheader": "Secluded coves and sun-warmed stone along the Cretan coast",
+      "Body": "Find your place along the water's edge, where the Aegean laps against centuries-old rock. At Minos Beach, recreation is unhurried \u2014 a kayak at dawn, a swim at midday, a glass of wine as the sun dips below the horizon.",
+      "Eyebrow": "Mediterranean Escapes",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/ds-hermb-recreation-23385:Classic-Hor",
+      "CTA": "Plan Your Stay",
+      "Property": "Minos Beach Art Hotel",
+      "Logo": "[ds] Design Hotels",
+      "Keywords": "shore, cove, recreation, crete, greece, aegean, kayak, water"
+    },
+    {
+      "Header": "Carved from Light",
+      "Subheader": "Whitewashed elegance on the volcanic shores of Milos",
+      "Body": "Domes White Coast rises from the Cycladic landscape like a natural extension of the island itself. The pool reflects the Aegean blue while minimalist architecture channels the essence of Greek island living \u2014 pure, clean, luminous.",
+      "Eyebrow": "Greek Islands",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/lc-mlowc-domes-white-coast-po25967-17849:Classic-Hor",
+      "CTA": "Discover Milos",
+      "Property": "Domes White Coast Milos",
+      "Logo": "[lc] The Luxury Collection",
+      "Keywords": "pool, whitewash, milos, greece, cycladic, minimal, island, volcanic"
+    },
+    {
+      "Header": "The Art of Arrival",
+      "Subheader": "A sculptural staircase at the intersection of heritage and modernity",
+      "Body": "In the heart of Madrid, The EDITION transforms arrival into art. The signature spiral staircase rises through the lobby like a sculptural centerpiece \u2014 a bold statement where Spanish tradition meets contemporary design.",
+      "Eyebrow": "Urban Design",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/eb-madeb-spiral-staircase-21725:Classic-Hor",
+      "CTA": "Discover Madrid",
+      "Property": "EDITION Madrid",
+      "Logo": "[eb] Edition",
+      "Keywords": "architecture, staircase, interior, urban, madrid, spain, design, modern"
+    },
+    {
+      "Header": "The Heart of Mykonos",
+      "Subheader": "An iconic pool and lounge overlooking the sparkling Ornos Bay",
+      "Body": "At the Oasis Pool & Lounge, the energy of Mykonos meets the serenity of a private retreat. Crisp white loungers, shimmering water, and panoramic views of the bay create a scene that is equal parts vibrant and tranquil.",
+      "Eyebrow": "Luxury Collection",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/lc-jmklc-oasis-pool-lounge-97500:Classic-Hor",
+      "CTA": "Experience Mykonos",
+      "Property": "Santa Marina, Mykonos",
+      "Logo": "[lc] The Luxury Collection",
+      "Keywords": "pool, lounge, mykonos, greece, luxury, bay, panoramic, vibrant"
+    },
+    {
+      "Header": "A Room Without Boundaries",
+      "Subheader": "Private suites that open seamlessly to sun, water, and sky",
+      "Body": "Step through your suite and into the landscape. At Olea, private pools and outdoor living spaces extend the room beyond its walls, creating an experience where interior elegance and the natural world exist as one.",
+      "Eyebrow": "Suite Retreats",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/ds-zthoa-executive-private-27040-83704:Classic-Hor",
+      "CTA": "Browse Suites",
+      "Property": "Olea All Suite Hotel",
+      "Logo": "[ds] Design Hotels",
+      "Keywords": "suite, private pool, outdoor, zakynthos, greece, luxury, terrace, retreat"
+    },
+    {
+      "Header": "Where the Sky Meets the Sea",
+      "Subheader": "Immerse yourself in paradise at one of the world's most breathtaking resort lagoons",
+      "Body": "Slip into turquoise waters framed by swaying palms and open skies. The expansive salt water lagoon at St. Regis Bali invites you to lose track of time \u2014 floating between moments of wonder and effortless calm. This is luxury without walls.",
+      "Eyebrow": "Island Escapes",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/DPSXR/dpsxr-salt-water-lagoon-0803-hor-clsc.jpg",
+      "CTA": "Explore the Resort",
+      "Property": "St. Regis Bali",
+      "Logo": "[xr] St Regis",
+      "Keywords": "lagoon, pool, tropical, luxury, bali, island, resort, water"
+    }
+  ]
+}
