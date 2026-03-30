@@ -1,0 +1,39 @@
+{
+  "columns": [
+    "Header",
+    "Subheader",
+    "Body",
+    "CTA",
+    "CTA2",
+    "Tag",
+    "Eyebrow"
+  ],
+  "rows": [
+    {
+      "Header": "125K Pts +1 Free Night",
+      "Subheader": "You're pre-approved. ",
+      "Body": "Plus, get a Free Night Award every account anniversary.",
+      "CTA": "Learn More",
+      "CTA2": "Apply Now",
+      "Tag": "Bonus Offer",
+      "Eyebrow": "BEST 2025 POINTS OFFER"
+    },
+    {
+      "Header": "Limited-Time: 125,000 Points + 1 Free Night",
+      "Subheader": "Use it on an upcoming stay.",
+      "Body": "Plus, get an additional Free Night Award every year.",
+      "CTA": "Learn More",
+      "CTA2": "Apply Now",
+      "Eyebrow": "LIMITED-TIME OFFER"
+    },
+    {
+      "Header": "Limited-Time: $400 eGiftCard + 50,000 Points",
+      "Subheader": "You're pre-approved. ",
+      "Body": "Plus, get a Free Night Award every account anniversary & earn up to 17X points.",
+      "CTA": "Learn More",
+      "CTA2": "Apply Now",
+      "Eyebrow": "BEST POINTS OFFER"
+    }
+  ],
+  "name": "Cobrand"
+}
