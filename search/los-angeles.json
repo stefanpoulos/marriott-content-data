@@ -1,0 +1,415 @@
+{
+  "columns": [
+    "Name",
+    "Image",
+    "Description",
+    "Price",
+    "Currency",
+    "Ratings",
+    "Distance",
+    "Logo",
+    "Destination"
+  ],
+  "rows": [
+    {
+      "Name": "Courtyard Los Angeles Monterey Park",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXMP/laxmp-exterior-0674-hor-wide.jpg\n",
+      "Description": "New hotel with onsite dining, modern meeting space and outdoor pool in prime Monterey Park location",
+      "Price": 189,
+      "Currency": "USD / Night",
+      "Ratings": "4 (704 reviews)",
+      "Distance": "6.3 miles from destination",
+      "Logo": "[cy] Courtyard"
+    },
+    {
+      "Name": "Four Points by Sheraton Los Angeles Westside",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXWF/laxwf-lobby-bar-4643-hor-wide.jpg\n",
+      "Description": "Relax at Four Points by Sheraton LA Westside, a modern hotel near LAX.",
+      "Price": 278,
+      "Currency": "USD / Night",
+      "Ratings": "3.9 (987 reviews)",
+      "Distance": "10.7 miles from destination",
+      "Logo": "[si] Sheraton"
+    },
+    {
+      "Name": "The West Hollywood EDITION",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXEB/laxeb-lobby-5487-hor-wide.jpg\n",
+      "Description": "Luxury hotel in the Hollywood Hills with pet-friendly rooms, a day spa, a rooftop pool and gym.",
+      "Price": 716,
+      "Currency": "USD / Night",
+      "Ratings": "4 (338 reviews)",
+      "Distance": "8.7 miles from destination",
+      "Logo": "[eb] Edition"
+    },
+    {
+      "Name": "Beverly Hills Marriott",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXBV/laxbv-exterior-1733-hor-wide.jpg\n",
+      "Description": "Gateway to LA: Discover Beverly Hills, Santa Monica, Hollywood & more. Featuring Pure Wellness rooms",
+      "Price": 391,
+      "Currency": "USD / Night",
+      "Ratings": "3.8 (1,349 reviews)",
+      "Distance": "8.8 miles from destination",
+      "Logo": "[mc] Marriott Hotels"
+    },
+    {
+      "Name": "Residence Inn Los Angeles Burbank/Downtown",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/BURRI/burri-pool-0080-hor-wide.jpg\n",
+      "Description": "Extended-stay hotel in downtown Burbank, CA, with free Wi-Fi and a free daily breakfast.",
+      "Price": 224,
+      "Currency": "USD / Night",
+      "Ratings": "4.2 (779 reviews)",
+      "Distance": "9.4 miles from destination",
+      "Logo": "[ri] Residence Inn"
+    },
+    {
+      "Name": "The Westin Los Angeles Airport",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXWI/laxwi-exterior-8639-hor-wide.jpg\n",
+      "Description": "Newly renovated hotel with free airport shuttle, near LAX, with spacious rooms and upscale amenities",
+      "Price": 166,
+      "Currency": "USD / Night",
+      "Ratings": "3.5 (3,694 reviews)",
+      "Distance": "10.8 miles from destination",
+      "Logo": "[wi] Westin"
+    },
+    {
+      "Name": "The Ritz-Carlton, Los Angeles",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXLZ/laxlz-deluxe-accessible-3088-hor-wide.jpg\n",
+      "Description": "Hotel in Los Angeles, CA in the entertainment district with modern rooms, suites and a rooftop pool.",
+      "Price": 764,
+      "Currency": "USD / Night",
+      "Ratings": "4.3 (346 reviews)",
+      "Distance": "1.5 miles from destination",
+      "Logo": "[rz] The Ritz-Carlton"
+    },
+    {
+      "Name": "Sheraton Universal Hotel",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/si-bursi-hotel-lobby-24028:Wide-Hor\n",
+      "Description": "Family-friendly hotel with free shuttle next to the entrance of Universal Studios Hollywood.",
+      "Price": 239,
+      "Currency": "USD / Night",
+      "Ratings": "3.7 (3,591 reviews)",
+      "Distance": "8.5 miles from destination",
+      "Logo": "[si] Sheraton"
+    },
+    {
+      "Name": "Sheraton Gateway Los Angeles Hotel",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXSI/laxsi-lobby-1990-hor-wide.jpg\n",
+      "Description": "Stylish hotel near LAX with complimentary airport shuttle, renovated event spaces and a pool",
+      "Price": 166,
+      "Currency": "USD / Night",
+      "Ratings": "3.6 (3,889 reviews)",
+      "Logo": "[si] Sheraton"
+    },
+    {
+      "Name": "The Westin Pasadena",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXPW/laxpw-pasadena-5760-hor-wide.jpg\n",
+      "Description": "A pet-friendly hotel in Pasadena, CA with a rooftop pool, city & mountain views, and a restaurant",
+      "Price": 263,
+      "Currency": "USD / Night",
+      "Ratings": "3.9 (1,111 reviews)",
+      "Distance": "8.7 miles from destination",
+      "Logo": "[wi] Westin"
+    },
+    {
+      "Name": "Four Points by Sheraton Los Angeles International Airport",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXFP/laxfp-front-desk-0814-hor-wide.jpg\n",
+      "Description": "Four Points offers guests what matters most to stay comfortable and connected in Los Angeles.",
+      "Price": 117,
+      "Currency": "USD / Night",
+      "Ratings": "2.5 (3,556 reviews)",
+      "Distance": "11.1 miles from destination",
+      "Logo": "[si] Sheraton"
+    },
+    {
+      "Name": "Residence Inn Beverly Hills",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXRB/laxrb-suite-0067-hor-wide.jpg\n",
+      "Description": "All-suite hotel located just 1 mile from Rodeo Drive. Free breakfast & WiFi",
+      "Price": 269,
+      "Currency": "USD / Night",
+      "Ratings": "4 (999 reviews)",
+      "Distance": "8.8 miles from destination",
+      "Logo": "[ri] Residence Inn"
+    },
+    {
+      "Name": "Courtyard Los Angeles Pasadena/Old Town",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXOT/laxot-whirlpool-0095-hor-wide.jpg\n",
+      "Description": "Delight in our fully renovated Old Town Pasadena hotel, steps from Rose Bowl Stadium and much more!",
+      "Price": 224,
+      "Currency": "USD / Night",
+      "Ratings": "4 (1,815 reviews)",
+      "Distance": "8.3 miles from destination",
+      "Logo": "[cy] Courtyard"
+    },
+    {
+      "Name": "Residence Inn Los Angeles L.A. LIVE",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXRI/laxri-pool-0050-hor-wide.jpg\n",
+      "Description": "Extended-stay hotel in downtown Los Angeles, with an outdoor pool and full-kitchen suites",
+      "Price": 195,
+      "Currency": "USD / Night",
+      "Ratings": "4.3 (1,220 reviews)",
+      "Distance": "1.5 miles from destination",
+      "Logo": "[ri] Residence Inn"
+    },
+    {
+      "Name": "Sheraton Grand Los Angeles",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXGR/laxgr-exterior-0607-hor-wide.jpg\n",
+      "Description": "Sheraton Grand Los Angeles is a DTLA family hotel with event space, dining and dog-friendly rooms.",
+      "Price": 230,
+      "Currency": "USD / Night",
+      "Ratings": "3.8 (39 reviews)",
+      "Distance": "1.0 miles from destination",
+      "Logo": "[si] Sheraton"
+    },
+    {
+      "Name": "AC Hotel Downtown Los Angeles",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/ar-laxav-ac-library-dusk-view-28157:Wide-Hor\n",
+      "Description": "Steps from Crypto Arena, LA Live & LA Convention Center. 12 Bars & Restaurants. Level 8 Now Open!",
+      "Price": 215,
+      "Currency": "USD / Night",
+      "Ratings": "3.6 (198 reviews)",
+      "Distance": "1.7 miles from destination",
+      "Logo": "[ar] AC Hotels"
+    },
+    {
+      "Name": "Downtown Los Angeles Proper Hotel, a Member of Design Hotels\u00aa",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXDP/laxdp-exterior-1678-hor-wide.jpg\n",
+      "Description": "DTLA's newest luxury lifestyle hotel with iconic dining, rooftop pool, and city views.",
+      "Price": 369,
+      "Currency": "USD / Night",
+      "Ratings": "4 (1,245 reviews)",
+      "Distance": "1.4 miles from destination",
+      "Logo": "[ds] Design Hotels"
+    },
+    {
+      "Name": "Courtyard Los Angeles Burbank Airport",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/BURCY/burcy-entrance-0065-hor-wide.jpg\n",
+      "Description": "Newly renovated hotel near restaurants, shopping and Hollywood Burbank Airport.",
+      "Price": 254,
+      "Currency": "USD / Night",
+      "Ratings": "4.2 (951 reviews)",
+      "Distance": "10.8 miles from destination",
+      "Logo": "[cy] Courtyard"
+    },
+    {
+      "Name": "SLS Hotel, a Luxury Collection Hotel, Beverly Hills",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXLS/laxls-hotel-3265-hor-wide.jpg\n",
+      "Description": "Luxury hotel with a rooftop pool deck at the crossroads of Los Angeles and Beverly Hills.",
+      "Price": 381,
+      "Currency": "USD / Night",
+      "Ratings": "3.8 (1,351 reviews)",
+      "Distance": "7.4 miles from destination",
+      "Logo": "[lc] The Luxury Collection"
+    },
+    {
+      "Name": "Residence Inn Los Angeles Pasadena/Old Town",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXRO/laxro-exterior-0024-hor-wide.jpg\n",
+      "Description": "Trendy suites at our Pasadena Old Town hotel with free Wi-Fi, full kitchens, and work desks.",
+      "Price": 264,
+      "Currency": "USD / Night",
+      "Ratings": "4.2 (518 reviews)",
+      "Distance": "8.4 miles from destination",
+      "Logo": "[ri] Residence Inn"
+    },
+    {
+      "Name": "Residence Inn Los Angeles LAX/Century Boulevard",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXAX/laxax-pit-0032-hor-wide.jpg\n",
+      "Description": "1/2 mile from LAX via free shuttle. Free breakfast & WiFi.",
+      "Price": 166,
+      "Currency": "USD / Night",
+      "Ratings": "4.2 (1,921 reviews)",
+      "Distance": "11.2 miles from destination",
+      "Logo": "[ri] Residence Inn"
+    },
+    {
+      "Name": "W Los Angeles - West Beverly Hills",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/wh-laxwb-0r9a2856-28578:Wide-Hor\n",
+      "Description": "An upscale West Beverly Hills hotel with stylish suites, an outdoor pool deck and three restaurants.",
+      "Price": 342,
+      "Currency": "USD / Night",
+      "Ratings": "3.8 (1,110 reviews)",
+      "Logo": "[wh] W Hotels"
+    },
+    {
+      "Name": "Los Angeles Airport Marriott",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXAP/laxap-pool-0104-hor-wide.jpg\n",
+      "Description": "Hotel near Los Angeles International Airport (LAX) with a free airport shuttle and spacious rooms.",
+      "Price": 185,
+      "Currency": "USD / Night",
+      "Ratings": "4 (4,457 reviews)",
+      "Distance": "11.2 miles from destination",
+      "Logo": "[mc] Marriott Hotels"
+    },
+    {
+      "Name": "Residence Inn Los Angeles Glendale",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXRL/laxrl-corner-studio-5174-hor-wide.jpg\n",
+      "Description": "Extended-stay hotel in Glendale, CA, with pet-friendly hotel rooms and a heated outdoor pool.",
+      "Price": 273,
+      "Currency": "USD / Night",
+      "Ratings": "4.3 (325 reviews)",
+      "Distance": "6.5 miles from destination",
+      "Logo": "[ri] Residence Inn"
+    },
+    {
+      "Name": "Hotel Per La, Autograph Collection",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/ak-laxdk-ak-laxdk-studiosuitedoubl-26650:Wide-Hor\n",
+      "Description": "Hotel Per La is a celebration, and you're invited. Stunning views from our rooftop bar & pool await.",
+      "Price": 240,
+      "Currency": "USD / Night",
+      "Ratings": "3.8 (39 reviews)",
+      "Distance": "0.9 miles from destination",
+      "Logo": "[ak] Autograph Collection"
+    },
+    {
+      "Name": "W Hollywood",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXWH/laxwh-wet-deck-0462-hor-wide.jpg\n",
+      "Description": "Feel the pulse of Hollywood Boulevard near the Hollywood Walk of Fame",
+      "Price": 371,
+      "Currency": "USD / Night",
+      "Ratings": "3.3 (1,516 reviews)",
+      "Distance": "5.7 miles from destination",
+      "Logo": "[wh] W Hotels"
+    },
+    {
+      "Name": "Moxy Downtown Los Angeles",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/OX/ox-main01-0001-hor-feat.jpg\n",
+      "Description": "Steps from Crypto Arena, LA Live & LA Convention Center. 12 Bars & Restaurants. Level 8 Now Open!",
+      "Price": 196,
+      "Currency": "USD / Night",
+      "Ratings": "3.2 (232 reviews)",
+      "Distance": "1.7 miles from destination",
+      "Logo": "[ox] Moxy Hotels"
+    },
+    {
+      "Name": "Fairfield Inn & Suites Los Angeles Rosemead",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXFR/laxfr-exterior-0002-hor-wide.jpg\n",
+      "Description": "\u2013",
+      "Price": 166,
+      "Currency": "USD / Night",
+      "Ratings": "4.3 (355 reviews)",
+      "Distance": "10.0 miles from destination",
+      "Logo": "[fi] Fairfield"
+    },
+    {
+      "Name": "Courtyard Los Angeles L.A. LIVE",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXLD/laxld-pool-0031-hor-wide.jpg\n",
+      "Description": "Hotel in downtown Los Angeles across from the L.A. LIVE campus and Los Angeles Convention Center.",
+      "Price": 195,
+      "Currency": "USD / Night",
+      "Ratings": "4.1 (936 reviews)",
+      "Distance": "1.5 miles from destination",
+      "Logo": "[cy] Courtyard"
+    },
+    {
+      "Name": "SpringHill Suites Los Angeles Downey",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/sh-laxsd-springhill-downey-28262:Wide-Hor\n",
+      "Description": "All-suite accommodations ideal for short or long stays for business or leisure travelers",
+      "Price": 175,
+      "Currency": "USD / Night",
+      "Ratings": "4.3 (231 reviews)",
+      "Distance": "11.0 miles from destination",
+      "Logo": "[sh] SpringHill Suites"
+    },
+    {
+      "Name": "AC Hotel Beverly Hills",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXAB/laxab-pool-5950-hor-wide.jpg\n",
+      "Description": "Hotel Room Bookings in Los Angeles, CA",
+      "Price": 244,
+      "Currency": "USD / Night",
+      "Ratings": "3.9 (603 reviews)",
+      "Distance": "7.2 miles from destination",
+      "Logo": "[ar] AC Hotels"
+    },
+    {
+      "Name": "Renaissance Los Angeles Airport Hotel",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXRR/laxrr-studio-0059-hor-wide.jpg\n",
+      "Description": "Intimate LAX airport hotel near the beach with free shuttles, chic rooms and evening entertainment.",
+      "Price": 156,
+      "Currency": "USD / Night",
+      "Ratings": "3.9 (2,335 reviews)",
+      "Distance": "11.0 miles from destination",
+      "Logo": "[br] Renaissance Hotels"
+    },
+    {
+      "Name": "Sheraton Los Angeles San Gabriel",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LGBFP/lgbfp-lobby-1043-hor-wide.jpg\n",
+      "Description": "San Gabriel hotel with cutting-edge butler robots, on-site dining, a large ballroom and hotel spa.",
+      "Price": 215,
+      "Currency": "USD / Night",
+      "Ratings": "4.2 (680 reviews)",
+      "Distance": "8.4 miles from destination",
+      "Logo": "[si] Sheraton"
+    },
+    {
+      "Name": "Avalon Hotel Beverly Hills, a Member of Design Hotels\u00e2\u201e\u00a2",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXDS/laxds-terrace-2203-hor-wide.jpg\n",
+      "Description": "Avalon offers an experience in the heart of Beverly Hills, with a vibrant, open-air scene.",
+      "Price": 304,
+      "Currency": "USD / Night",
+      "Ratings": "\u2013",
+      "Distance": "9.2 miles from destination",
+      "Logo": "[ds] Design Hotels"
+    },
+    {
+      "Name": "Courtyard Los Angeles Westside",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXCV/laxcv-pool-0017-hor-wide.jpg\n",
+      "Description": "Culver City hotel boasts a prime location, full-service amenities, and outdoor event space.",
+      "Price": 224,
+      "Currency": "USD / Night",
+      "Ratings": "4 (1,182 reviews)",
+      "Distance": "10.0 miles from destination",
+      "Logo": "[cy] Courtyard"
+    },
+    {
+      "Name": "Hotel Dena, Pasadena Los Angeles, a Tribute Portfolio Hotel",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/BURPT/laxsp-king-guest-6397-hor-wide.jpg\n",
+      "Description": "Boutique hotel near Old Town Pasadena with an outdoor pool, chic event space and onsite dining.",
+      "Price": 195,
+      "Currency": "USD / Night",
+      "Ratings": "3.2 (66 reviews)",
+      "Distance": "7.7 miles from destination",
+      "Logo": "[tx] Tribute Portfolio"
+    },
+    {
+      "Name": "JW Marriott Los Angeles L.A. LIVE",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/jw-laxjw-la-live-aerial-view-22840:Wide-Hor\n",
+      "Description": "Luxury hotel by Crypto.com Arena and Peacock Theater in downtown Los Angeles\u00e2\u20ac\u2122s LA Live district.",
+      "Price": 313,
+      "Currency": "USD / Night",
+      "Ratings": "4.3 (3,468 reviews)",
+      "Distance": "1.5 miles from destination",
+      "Logo": "[jw] JW Marriott"
+    },
+    {
+      "Name": "Courtyard Los Angeles Century City/Beverly Hills",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXCE/laxce-double-guestroom-8558-hor-wide.jpg\n",
+      "Description": "Modern Century City hotel featuring free Wi-Fi, a fitness center and meeting space.",
+      "Price": 254,
+      "Currency": "USD / Night",
+      "Ratings": "4.1 (753 reviews)",
+      "Distance": "10.0 miles from destination",
+      "Logo": "[cy] Courtyard"
+    },
+    {
+      "Destination": "Los Angeles, CA",
+      "Name": "The Westin Bonaventure Hotel & Suites, Los Angeles",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/LAXBW/laxbw-exterior-3398-hor-wide.jpg\n",
+      "Description": "Find Contemporary Luxury at our Downtown Los Angeles Hotel",
+      "Price": 234,
+      "Currency": "USD / Night",
+      "Ratings": "3.8 (3,999 reviews)",
+      "Distance": "0.8 miles from destination",
+      "Logo": "[wi] Westin"
+    },
+    {
+      "Name": "SpringHill Suites Los Angeles Burbank/Downtown",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/BURSH/bursh-fire-0053-hor-wide.jpg\n",
+      "Description": "Pet-friendly hotel in downtown Burbank, California, with an outdoor pool, free Wi-Fi and breakfast.",
+      "Price": 205,
+      "Currency": "USD / Night",
+      "Ratings": "4.3 (1,526 reviews)",
+      "Distance": "9.3 miles from destination",
+      "Logo": "[sh] SpringHill Suites"
+    }
+  ],
+  "name": "Los Angeles"
+}
