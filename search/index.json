@@ -1,0 +1,54 @@
+{
+  "searchTypes": [
+    {
+      "id": "new-york",
+      "name": "New York",
+      "file": "new-york.json"
+    },
+    {
+      "id": "new-york-courtyard",
+      "name": "New York Courtyard",
+      "file": "new-york-courtyard.json"
+    },
+    {
+      "id": "san-diego",
+      "name": "San Diego",
+      "file": "san-diego.json"
+    },
+    {
+      "id": "orlando",
+      "name": "Orlando",
+      "file": "orlando.json"
+    },
+    {
+      "id": "miami",
+      "name": "Miami",
+      "file": "miami.json"
+    },
+    {
+      "id": "los-angeles",
+      "name": "Los Angeles",
+      "file": "los-angeles.json"
+    },
+    {
+      "id": "paris",
+      "name": "Paris",
+      "file": "paris.json"
+    },
+    {
+      "id": "london-de",
+      "name": "London DE",
+      "file": "london-de.json"
+    },
+    {
+      "id": "harrisonburg",
+      "name": "Harrisonburg",
+      "file": "harrisonburg.json"
+    },
+    {
+      "id": "luxury",
+      "name": "Luxury",
+      "file": "luxury.json"
+    }
+  ]
+}
