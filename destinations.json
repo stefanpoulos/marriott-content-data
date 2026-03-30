@@ -1,0 +1,70 @@
+{
+  "columns": [
+    "Header",
+    "Image",
+    "Eyebrow"
+  ],
+  "rows": [
+    {
+      "Header": "Hotel Deals in Toronto",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/GettyImages-628519420",
+      "Eyebrow": "Urban Escape"
+    },
+    {
+      "Header": "Hotel Deals in Hawaii",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/dm-static-renditions/mc/us-canada/hws/h/hnlmc/en_us/photo/unlimited/assets/mc-hnlmc-7c9272a0-76ad-4aa7-b0be-1a5f9320a805-classic-ver.jpg",
+      "Eyebrow": "Island Paradise"
+    },
+    {
+      "Header": "Hotel Deals in Boston",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/dm-static-renditions/ri/us-canada/hws/b/bostw/en_us/photo/unlimited/assets/bostw-views-0032-classic-ver.jpg",
+      "Eyebrow": "Historic Charm"
+    },
+    {
+      "Header": "Hotel Deals in Las Vegas",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/mc-lasst-lv-strip-1-11-85600-267",
+      "Eyebrow": "Bright Lights"
+    },
+    {
+      "Header": "Hotel Deals in Tokyo",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/GettyImages-1058360160",
+      "Eyebrow": "Metro Magic"
+    },
+    {
+      "Header": "Hotel Deals in Rome",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/dm-static-renditions/marriott-rnb/global/en_us/cityguide/photo/unlimited/assets/pdt-rnb-city-hero-rome-225189290381276-classic-ver.jpg",
+      "Eyebrow": "Ancient Beauty"
+    },
+    {
+      "Header": "Hotel Deals in Dubai",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/dm-static-renditions/rz/emea/hws/d/dxbrz/en_us/photo/unlimited/assets/rz-dxbrz-ferris-wheel-32439-76763-classic-ver.jpg",
+      "Eyebrow": "Desert Luxury"
+    },
+    {
+      "Header": "Hotel Deals in London",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/stock-family-sandy-beach-1073304:Wide-Hor",
+      "Eyebrow": "Royal Stay"
+    },
+    {
+      "Header": "Hotel Deals in San Francisco",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/GettyImages-136117415",
+      "Eyebrow": "Bay Beauty"
+    },
+    {
+      "Header": "Hotel Deals in New York City",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/dm-static-renditions/md/us-canada/hws/n/nycmo/en_us/photo/unlimited/assets/md-nycmo-nyc-36573-classic-ver.jpg",
+      "Eyebrow": "Urban Pulse"
+    },
+    {
+      "Header": "Hotel Deals in Paris",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/mc-parmc-city-center-of-pari-21997-00198",
+      "Eyebrow": "Romance"
+    },
+    {
+      "Header": "Hotel Deals in Miami Beach",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/dm-static-renditions/sh/us-canada/hws/m/mialg/en_us/photo/limited/assets/sh-mialg-miami-south-beach-37168-16148-classic-ver.jpg",
+      "Eyebrow": "Beach Bliss"
+    }
+  ],
+  "name": "Destinations"
+}
