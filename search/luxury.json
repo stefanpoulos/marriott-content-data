@@ -1,0 +1,71 @@
+{
+  "columns": [
+    "Name",
+    "Description",
+    "Image",
+    "Logo"
+  ],
+  "rows": [
+    {
+      "Name": "The Luxury Collection Hotel Manhattan Midtown",
+      "Description": "Experience refined luxury in the heart of the Manhattan skyline.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/NYCTE/nycte-suite-7748-hor-wide.jpg\n",
+      "Logo": "[lc] The Luxury Collection"
+    },
+    {
+      "Name": "JW Marriott Essex House New York",
+      "Description": "Five-star hotel close to Central Park South offering modern hotel rooms and suites.",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/wh-nycwh-1252837424-22901:Wide-Hor\n",
+      "Logo": "[jw] JW Marriott"
+    },
+    {
+      "Name": "The New York EDITION",
+      "Description": "Luxury lifestyle hotel in midtown Manhattan with stunning views and an award-winning restaurant.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/NYCWH/nycwh-doscaminos-5025-hor-wide.jpg\n",
+      "Logo": "[eb] Edition"
+    },
+    {
+      "Name": "W Hoboken",
+      "Description": "Urban oasis on the Hoboken NJ waterfront with pet-friendly hotel rooms and stunning views of NYC.",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/nycwh-exterior-1201:Wide-Hor\n",
+      "Logo": "[wh] W Hotels"
+    },
+    {
+      "Name": "The Times Square EDITION",
+      "Description": "Our five-star hotel in Times Square, Manhattan, offers stylish rooms with floor-to-ceiling windows.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/NYCTE/nycte-entrance-6936-hor-wide.jpg\n",
+      "Logo": "[eb] Edition"
+    },
+    {
+      "Name": "The St. Regis New York",
+      "Description": "Iconic luxury hotel with family suites and Butler Service on 5th Avenue in midtown Manhattan.",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/eb-nycte-paradise-club-reception-37113:Wide-Hor\n",
+      "Logo": "[xr] St Regis"
+    },
+    {
+      "Name": "W New York \u2013 Union Square",
+      "Description": "Chic hotel at Union Square near a major subway hub, NYU, Union Station and NoMad.",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/nycwh-exterior-1201:Wide-Hor\n",
+      "Logo": "[wh] W Hotels"
+    },
+    {
+      "Name": "The Ritz-Carlton New York, Central Park",
+      "Description": "Steps from Central Park, a luxury retreat with inspiring views & elegant redesigned accommodations",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/nycwh-exterior-1201:Wide-Hor\n",
+      "Logo": "[rz] The Ritz-Carlton"
+    },
+    {
+      "Name": "W New York - Times Square",
+      "Description": "Elevate your visit to New York City and live it up with a stay at our Times Square, Manhattan hotel.",
+      "Image": "https://cache.marriott.com/is/image/marriotts7prod/nycte-terrace-6938:Wide-Hor\n",
+      "Logo": "[wh] W Hotels"
+    },
+    {
+      "Name": "The Ritz-Carlton New York, NoMad",
+      "Description": "A luxurious hotel in New York City with unobstructed views of Downtown Manhattan, legendary culinary destinations by chef Jos\u00e9 Andr\u00e9s, and The Ritz-Carlton Spa.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/NYCTE/nycte-suite-8443-hor-wide.jpg\n",
+      "Logo": "[rz] The Ritz-Carlton"
+    }
+  ],
+  "name": "Luxury"
+}
