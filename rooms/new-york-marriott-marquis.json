@@ -1,0 +1,83 @@
+{
+  "columns": [
+    "Room Name",
+    "Rate Type",
+    "Reduced Rate",
+    "Rate",
+    "Currency",
+    "Mandatory Fees",
+    "Total",
+    "Taxes and Fees",
+    "Image #1",
+    "Image #2",
+    "Image #3"
+  ],
+  "rows": [
+    {
+      "Room Name": "Premier, Larger Guest room, 1 King, Sofa bed, Corner room",
+      "Rate Type": "Cash",
+      "Reduced Rate": "was 749",
+      "Rate": "728",
+      "Currency": "USD Avg / Night",
+      "Mandatory Fees": "Includes 40 USD Destination Fee",
+      "Total": "2,914 Total Per Room",
+      "Taxes and Fees": "Taxes and all fees included",
+      "Image #1": "https://cache.marriott.com/is/image/marriotts7prod/mc-nycmq-corner-king-20837:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339",
+      "Image #2": "https://cache.marriott.com/is/image/marriotts7prod/nycmq-guestroom-entertainment-6007:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339",
+      "Image #3": "https://cache.marriott.com/is/image/marriotts7prod/nycmq-king-room-floor-plan-9370-1:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339"
+    },
+    {
+      "Room Name": "Sofa Bed on Request, Guest room, 1 King",
+      "Rate Type": "Cash",
+      "Reduced Rate": "was 629",
+      "Rate": "606",
+      "Currency": "USD Avg / Night",
+      "Mandatory Fees": "Includes 40 USD Destination Fee",
+      "Total": "2,425 Total Per Room",
+      "Taxes and Fees": "Taxes and all fees included",
+      "Image #1": "https://cache.marriott.com/is/image/marriotts7prod/nycmq-king-guestroom-6031:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339",
+      "Image #2": "https://cache.marriott.com/is/image/marriotts7prod/nycmq-guestroom-entertainment-6007:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339",
+      "Image #3": "https://cache.marriott.com/is/image/marriotts7prod/nycmq-bathroom-6000:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339"
+    },
+    {
+      "Room Name": "Deluxe, Guest room, 2 Double",
+      "Rate Type": "Cash",
+      "Reduced Rate": "was 349",
+      "Rate": "616",
+      "Currency": "USD Avg / Night",
+      "Mandatory Fees": "Includes 40 USD Destination Fee",
+      "Total": "2,464 Total Per Room",
+      "Taxes and Fees": "Taxes and all fees included",
+      "Image #1": "https://cache.marriott.com/is/image/marriotts7prod/mc-nycmq-standard-dd-room-14673:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339",
+      "Image #2": "https://cache.marriott.com/is/image/marriotts7prod/nycmq-guestroom-entertainment-6007:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339",
+      "Image #3": "https://cache.marriott.com/is/image/marriotts7prod/nycmq-bathroom-6000:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339"
+    },
+    {
+      "Room Name": "Executive Suite, M Club lounge access, 1 Bedroom Larger Suite, 1 King, Sofa bed",
+      "Rate Type": "Cash",
+      "Reduced Rate": "was 1,499",
+      "Rate": "1,399",
+      "Currency": "USD Avg / Night",
+      "Mandatory Fees": "Includes 40 USD Destination Fee",
+      "Total": "5,598 Total Per Room",
+      "Taxes and Fees": "Taxes and all fees included",
+      "Image #1": "https://cache.marriott.com/content/dam/marriott-renditions/NYCMQ/nycmq-premier-suite-6012-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:339",
+      "Image #2": "https://cache.marriott.com/content/dam/marriott-renditions/NYCMQ/nycmq-premier-suite-6011-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:339",
+      "Image #3": "https://cache.marriott.com/is/image/marriotts7prod/nycmq-king-suite-floor-plan-9366:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339"
+    },
+    {
+      "Room Name": "Family Kg Suite Connector, 2 Bedroom Suite, Bedroom 1: 1 King, Bedroom 2: 2 Double, Sofa bed",
+      "Rate Type": "Cash",
+      "Reduced Rate": "was 2,059",
+      "Rate": "1,955",
+      "Currency": "USD Avg / Night",
+      "Mandatory Fees": "Includes 40 USD Destination Fee",
+      "Total": "7,822 Total Per Room",
+      "Taxes and Fees": "Taxes and all fees included",
+      "Image #1": "https://cache.marriott.com/content/dam/marriott-renditions/NYCMQ/nycmq-deluxe-king-6005-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:339",
+      "Image #2": "https://cache.marriott.com/content/dam/marriott-renditions/NYCMQ/nycmq-king-suite-6004-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:339",
+      "Image #3": "https://cache.marriott.com/is/image/marriotts7prod/nycmq-double-guestroom-6030:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:339"
+    }
+  ],
+  "name": "New York Marriott Marquis"
+}
