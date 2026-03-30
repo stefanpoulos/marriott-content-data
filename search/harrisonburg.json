@@ -1,0 +1,75 @@
+{
+  "columns": [
+    "Name",
+    "Description",
+    "Image",
+    "Rate",
+    "Logo"
+  ],
+  "rows": [
+    {
+      "Name": "Courtyard Charlottesville - University Medical Center",
+      "Description": "Boutique hotel offering chic rooms and modern event venues in the heart of downtown Charlottesville.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/SHDCY/shdcy-bistro-4144-hor-wide.jpg\n",
+      "Rate": 180,
+      "Logo": "[cy] Courtyard"
+    },
+    {
+      "Name": "Residence Inn Harrisonburg",
+      "Description": "Your stay is about having a home away from home with our all-suite hotel.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/SHDCY/shdcy-boardroom-4129-hor-wide.jpg\n",
+      "Rate": 189,
+      "Logo": "[ri] Residence Inn"
+    },
+    {
+      "Name": "Fairfield Inn & Suites Charlottesville North",
+      "Description": "Book a stay in our lodging in Charlottesville, VA with a free airport shuttle and on-site dining.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/SHDCY/shdcy-bistro-4144-hor-wide.jpg\n",
+      "Rate": 151,
+      "Logo": "[fi] Fairfield"
+    },
+    {
+      "Name": "Fairfield Inn & Suites Harrisonburg",
+      "Description": "Shenandoah Valley Hotel near JMU features clean, comfortable, quiet rooms with great service.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/SHDCY/shdcy-bistro-4143-hor-wide.jpg\n",
+      "Rate": 161,
+      "Logo": "[fi] Fairfield"
+    },
+    {
+      "Name": "Courtyard Charlottesville",
+      "Description": "Cheer on UVA and discover C-Ville diversions, from our business hotel in Charlottesville, VA",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/SHDCY/shdcy-bistro-4144-hor-wide.jpg\n",
+      "Rate": 180,
+      "Logo": "[cy] Courtyard"
+    },
+    {
+      "Name": "Fairfield Inn & Suites Staunton",
+      "Description": "Area's Best Extended stay hotel. Come stay with us -- just like home.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/SHDCY/shdcy-bistro-4144-hor-wide.jpg\n",
+      "Rate": 189,
+      "Logo": "[fi] Fairfield"
+    },
+    {
+      "Name": "Residence Inn Waynesboro",
+      "Description": "On US29. 3 Miles to UVA, John Paul Jones Arena, and JAG. Free Breakfast, Outdoor Pool, Pet Friendly.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/SHDCY/shdcy-bistro-4144-hor-wide.jpg\n",
+      "Rate": 170,
+      "Logo": "[ri] Residence Inn"
+    },
+    {
+      "Name": "Courtyard Harrisonburg",
+      "Description": "Harrisonburg Courtyard, Marriott hotel near Shenandoah Valley and JMU featuring free",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/SHDCY/shdcy-bistro-4144-hor-wide.jpg\n",
+      "Rate": 123,
+      "Logo": "[cy] Courtyard"
+    },
+    {
+      "Name": "The Draftsman, Charlottesville, University, Autograph Collection Hotel",
+      "Description": "Extended-stay hotel with full kitchens and complimentary Wi-Fi near the University of Virginia.",
+      "Image": "https://cache.marriott.com/content/dam/marriott-renditions/SHDCY/shdcy-exterior-4135-hor-wide.jpg\n",
+      "Rate": 218,
+      "Logo": "[ak] Autograph Collection"
+    }
+  ],
+  "name": "Harrisonburg"
+}
