@@ -1,0 +1,77 @@
+{
+  "columns": [
+    "Room Name",
+    "Rate Type",
+    "Rate",
+    "Currency",
+    "Mandatory Fees",
+    "Total",
+    "Taxes and Fees",
+    "Image #1",
+    "Image #2",
+    "Image #3"
+  ],
+  "rows": [
+    {
+      "Room Name": "Guest room, 1 King, Water Park view, Balcony",
+      "Rate Type": "Cash",
+      "Rate": "370",
+      "Currency": "USD Avg / Night",
+      "Mandatory Fees": "Includes 47 USD Resort Fee",
+      "Total": "1,482 Total Per Room",
+      "Taxes and Fees": "Taxes and all fees included",
+      "Image #1": "https://cache.marriott.com/is/image/marriotts7prod/mc-mcowc-mc-mcowc-17838-12734:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:800",
+      "Image #2": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-king-pool-4589-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800",
+      "Image #3": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-king-floor-plan-0536-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800"
+    },
+    {
+      "Room Name": "Ambassador, Suite, 2 Queen, Sofa bed, Pool view, Balcony",
+      "Rate Type": "Cash",
+      "Rate": "984",
+      "Currency": "USD Avg / Night",
+      "Mandatory Fees": "Includes 47 USD Resort Fee",
+      "Total": "3,939 Total Per Room",
+      "Taxes and Fees": "Taxes and all fees included",
+      "Image #1": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-ambassador-living-3966-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800",
+      "Image #2": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-queen-pool-4588-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800",
+      "Image #3": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-ambassador-queen-floor-plan-0534-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800"
+    },
+    {
+      "Room Name": "Promenade, Larger Guest room, 2 Queen, Sofa bed, Balcony",
+      "Rate Type": "Cash",
+      "Rate": "511",
+      "Currency": "USD Avg / Night",
+      "Mandatory Fees": "Includes 47 USD Resort Fee",
+      "Total": "2,045 Total Per Room",
+      "Taxes and Fees": "Taxes and all fees included",
+      "Image #1": "https://cache.marriott.com/is/image/marriotts7prod/mc-mcowc-promenade-room-58281-90802:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:800",
+      "Image #2": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-king-parlor-3964-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800",
+      "Image #3": "https://cache.marriott.com/is/image/marriotts7prod/mc-mcowc-guestroom-19365-84600:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:800"
+    },
+    {
+      "Room Name": "Guest room, 1 King",
+      "Rate Type": "Cash",
+      "Rate": "348",
+      "Currency": "USD Avg / Night",
+      "Mandatory Fees": "Includes 47 USD Resort Fee",
+      "Total": "1,393 Total Per Room",
+      "Taxes and Fees": "Taxes and all fees included",
+      "Image #1": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-king-pool-4589-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800",
+      "Image #2": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-guest-bathroom-4572-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800",
+      "Image #3": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-king-floor-plan-0536-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800"
+    },
+    {
+      "Room Name": "Guest room, 2 Queen, Pool view, Balcony",
+      "Rate Type": "Cash",
+      "Rate": "396",
+      "Currency": "USD Avg / Night",
+      "Mandatory Fees": "Includes 47 USD Resort Fee",
+      "Total": "1,587 Total Per Room",
+      "Taxes and Fees": "Taxes and all fees included",
+      "Image #1": "https://cache.marriott.com/is/image/marriotts7prod/mc-mcowc--mh_mcowc_guestroom_doubl-41851:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=*:800",
+      "Image #2": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-queen-pool-4588-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800",
+      "Image #3": "https://cache.marriott.com/content/dam/marriott-renditions/MCOWC/mcowc-queen-queen-floor-plan-0539-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=*:800"
+    }
+  ],
+  "name": "Orlando World Center Marriott"
+}
