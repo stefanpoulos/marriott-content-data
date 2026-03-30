@@ -1,0 +1,14 @@
+{
+  "roomProperties": [
+    {
+      "id": "orlando-world-center-marriott",
+      "name": "Orlando World Center Marriott",
+      "file": "orlando-world-center-marriott.json"
+    },
+    {
+      "id": "new-york-marriott-marquis",
+      "name": "New York Marriott Marquis",
+      "file": "new-york-marriott-marquis.json"
+    }
+  ]
+}
